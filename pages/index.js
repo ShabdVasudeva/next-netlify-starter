@@ -10,8 +10,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <Header className="hello" title="Welcome to AndroidPortWorld" />
+      <main className='hello'>
+        <h1>Welcome To Next Application</h1>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
